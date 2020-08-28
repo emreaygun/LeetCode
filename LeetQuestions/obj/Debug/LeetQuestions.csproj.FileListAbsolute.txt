@@ -1,0 +1,9 @@
+C:\GithubEmre\C#\LeetQuestions\LeetQuestions\bin\Debug\LeetQuestions.exe.config
+C:\GithubEmre\C#\LeetQuestions\LeetQuestions\bin\Debug\LeetQuestions.exe
+C:\GithubEmre\C#\LeetQuestions\LeetQuestions\bin\Debug\LeetQuestions.pdb
+C:\GithubEmre\C#\LeetQuestions\LeetQuestions\obj\Debug\LeetQuestions.csproj.CoreCompileInputs.cache
+C:\GithubEmre\C#\LeetQuestions\LeetQuestions\obj\Debug\LeetQuestions.exe
+C:\GithubEmre\C#\LeetQuestions\LeetQuestions\obj\Debug\LeetQuestions.pdb
+C:\GithubEmre\C#\LeetCode\LeetQuestions\bin\Debug\LeetQuestions.exe.config
+C:\GithubEmre\C#\LeetCode\LeetQuestions\obj\Debug\LeetQuestions.exe
+C:\GithubEmre\C#\LeetCode\LeetQuestions\obj\Debug\LeetQuestions.pdb

@@ -1,0 +1,17 @@
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\LeetQuestionsTests.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\LeetQuestionsTests.pdb
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\obj\Debug\LeetQuestionsTests.csprojAssemblyReference.cache
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\obj\Debug\LeetQuestionsTests.csproj.CoreCompileInputs.cache
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\obj\Debug\LeetQuestionsTests.csproj.CopyComplete
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\obj\Debug\LeetQuestionsTests.dll
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\obj\Debug\LeetQuestionsTests.pdb
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\LeetQuestions.exe
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\LeetQuestions.pdb
+C:\GithubEmre\C#\LeetQuestions\LeetQuestionsTests\bin\Debug\LeetQuestions.exe.config
